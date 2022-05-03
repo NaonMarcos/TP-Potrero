@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(230, 116, 116);
+  text-align: center;
+}
+p {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  background-color: aliceblue;
+  font-size: 24px;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: underline;
+  background-color: antiquewhite;
+}
+h2{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  background-color: aliceblue;
+}
+h3 {
+color: rgb(0, 0, 0);
+text-align: center;
+background-color: aliceblue;
+}
+h4 {
+  color: black;
+  text-align: center;
+  background-color: aliceblue;
+}
+.INGREDIENTES {
+  text-align: center;
+}
+.PASOS {
+  text-align: center;
+}
+.centrar {
+  width: 1280px;
+  height: 720px;
+}
